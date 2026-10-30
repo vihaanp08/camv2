@@ -1,0 +1,12 @@
+# Build output
+build/
+DerivedData/
+Payload/
+*.ipa
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+.DS_Store
